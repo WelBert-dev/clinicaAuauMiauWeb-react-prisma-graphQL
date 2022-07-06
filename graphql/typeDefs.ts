@@ -9,9 +9,9 @@ type Cliente {
     id: ID
     cpf_c: String
 	nome_completo_c: String
-	dt_nasc_c: Date
+	dt_nasc_c: String
 	sexo_c: String
-	dt_reg_c: Date
+	dt_reg_c: String
 	tel_cont1_c: String
 	tel_cont2_c: String
 	email_c: String

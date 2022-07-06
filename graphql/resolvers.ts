@@ -1,3 +1,5 @@
+import { Resolvers } from './resolvers-types';
+
 export const resolvers = {
     Query: {
         clientes: async (parent, args, ctx) => {
